@@ -1,0 +1,11 @@
+* Census 2010 Population in Town of Friday Harbor
+
+** Installation
+
+   - Install node.js
+   - run npm install
+
+** License
+[[http://i.creativecommons.org/p/zero/1.0/88x31.png]]
+
+To the extent possible under law, Nick Peihl has waived all copyright and related or neighboring rights to Census 2010 Population in Town of Friday Harbor. This work is published from: United States.
