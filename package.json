@@ -1,0 +1,16 @@
+{
+  "name": "Census2010_TFH",
+  "version": "1.0.0",
+  "description": "Creating a 3D STL from Town of Friday Harbor Census blocks shapefile extruded by 2010 Population",
+  "main": "server.js",
+  "dependencies": {
+    "shp2stl": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nick Peihl",
+  "license": "CC0"
+}
